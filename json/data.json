@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "dish": "Pekingsuppe",
+    "categorie": "Vorspeisen",
+    "description": "süß, sauer, scharf",
+    "allergenic": "1, 2, g, j",
+    "comment": "",
+    "price": "2,80€"
+  },
+  {
+    "id": "2",
+    "dish": "Hühnersuppe",
+    "categorie": "Vorspeisen",
+    "description": "",
+    "allergenic": "w",
+    "comment": "",
+    "price": "3,50€"
+  },
+  {
+    "id": "2a",
+    "dish": "Gemüsesuppe",
+    "categorie": "Vorspeisen",
+    "description": "",
+    "allergenic": "",
+    "comment": "",
+    "price": "3,00€"
+  },
+  {
+    "id": "3",
+    "dish": "Wantansuppe",
+    "categorie": "Vorspeisen",
+    "description": "mit Hühnerfüllung",
+    "allergenic": "a, w",
+    "comment": "",
+    "price": "3,50€"
+  },
+  {
+    "id": "4",
+    "dish": "Wantansuppe",
+    "categorie": "Vorspeisen",
+    "description": "thailändische Suppe mit Hühnerfleisch",
+    "allergenic": "f",
+    "comment": "",
+    "price": "3,90€"
+  },
+  {
+    "id": "4a",
+    "dish": "Wantansuppe",
+    "categorie": "Vorspeisen",
+    "description": "thailändische Suppe mit Garnelen",
+    "allergenic": "f",
+    "comment": "",
+    "price": "7,00€"
+  },
+  {
+    "id": "5",
+    "dish": "Große Frühlingsrolle",
+    "categorie": "Vorspeisen",
+    "description": "mit Gemüse und Hühnerfleisch; süß-sauer",
+    "allergenic": "a, g, j",
+    "comment": "",
+    "price": "3,00€"
+  },
+  {
+    "id": "5a",
+    "dish": "Mini Frühlingsrolle",
+    "categorie": "Vorspeisen",
+    "description": "6 Stück mit Süß-Sauer-Sauce",
+    "allergenic": "a, j",
+    "comment": "",
+    "price": "3,00€"
+  },
+  {
+    "id": "6",
+    "dish": "Wantan",
+    "categorie": "Vorspeisen",
+    "description": "6 Stück mit Süß-Sauer-Sauce",
+    "allergenic": "a, w",
+    "comment": "",
+    "price": "3,00€"
+  },
+  {
+    "id": "7",
+    "dish": "Krabbenchips",
+    "categorie": "Vorspeisen",
+    "description": "",
+    "allergenic": "a, f",
+    "comment": "",
+    "price": "1,80€"
+  },
+  {
+    "id": "8",
+    "dish": "Chicken Nuggets 6 Stk.",
+    "categorie": "Vorspeisen",
+    "description": "mit Süß-Sauer-Sauce",
+    "allergenic": "a",
+    "comment": "6 Stück",
+    "price": "3,90€"
+  },
+  {
+    "id": "8",
+    "dish": "Chicken Nuggets 9 Stk.",
+    "categorie": "Vorspeisen",
+    "description": "mit Süß-Sauer-Sauce",
+    "allergenic": "a",
+    "comment": "9 Stück",
+    "price": "4,90€"
+  },
+  {
+    "id": "8",
+    "dish": "Chicken Nuggets 20 Stk.",
+    "categorie": "Vorspeisen",
+    "description": "mit Süß-Sauer-Sauce",
+    "allergenic": "a",
+    "comment": "20 Stück",
+    "price": "7,50€"
+  },
+  {
+    "id": "9",
+    "dish": "Chicken Wings 6 Stk.",
+    "categorie": "Vorspeisen",
+    "description": "mit Süß-Sauer-Sauce",
+    "allergenic": "a",
+    "comment": "6 Stück",
+    "price": "5,50€"
+  },
+  {
+    "id": "9",
+    "dish": "Chicken Wings 9 Stk.",
+    "categorie": "Vorspeisen",
+    "description": "mit Süß-Sauer-Sauce",
+    "allergenic": "a",
+    "comment": "9 Stück",
+    "price": "7,00€"
+  },
+  {
+    "id": "9",
+    "dish": "Chicken Wings 15 Stk.",
+    "categorie": "Vorspeisen",
+    "description": "mit Süß-Sauer-Sauce",
+    "allergenic": "a",
+    "comment": "15 Stück",
+    "price": "9,50€"
+  }
+]
